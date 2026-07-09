@@ -2,7 +2,7 @@
 
 # JackSpirit
 
-### Student Developer &mdash; Flutter &amp; Go
+### CSE Student at BITS Pilani, Hyderabad Campus &mdash; Flutter &amp; Go
 
 </div>
 
@@ -14,10 +14,10 @@
 
 ### About
 
-I am a student developer focused on building fast, reliable software.
-My current interests sit at the intersection of mobile development
-and backend systems, which is why I spend most of my time between
-**Flutter** and **Go**.
+I am a Computer Science undergraduate at **BITS Pilani, Hyderabad Campus**,
+focused on building fast, reliable software. My current interests sit at
+the intersection of mobile development and backend systems, which is why
+I spend most of my time between **Flutter** and **Go**.
 
 I care about clean architecture, readable code, and understanding
 how things work under the hood rather than just making them work.
