@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:02569B&height=220&section=header&text=JackSpirit&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Flutter%20%26%20Go%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:02569B&height=220&section=header&text=JackSpirit&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Flutter%20%26%20Go%20Developer&descAlignY=55&descSize=18&cb=2" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&height=50&lines=Building+cross-platform+apps+with+Flutter;Writing+concurrent+systems+in+Go;Learning+something+new+every+day;Welcome+to+my+profile" alt="Typing SVG" height="50"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&height=50&cb=2&lines=Building+cross-platform+apps+with+Flutter;Writing+concurrent+systems+in+Go;Learning+something+new+every+day;Welcome+to+my+profile" alt="Typing SVG" height="50"/>
 
 </div>
 
@@ -52,7 +52,7 @@ how things work under the hood rather than just making them work.
 
 ### GitHub Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JackSpirit&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JackSpirit&theme=tokyonight&hide_border=true&cb=2" height="165"/>
 
 </div>
 
@@ -62,7 +62,7 @@ how things work under the hood rather than just making them work.
 
 ### Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JackSpirit&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JackSpirit&theme=tokyo-night&hide_border=true&cb=2" width="100%"/>
 
 </div>
 
@@ -79,4 +79,4 @@ how things work under the hood rather than just making them work.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00ADD8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00ADD8&height=120&section=footer&cb=2" width="100%"/>
