@@ -77,8 +77,8 @@ how things work under the hood rather than just making them work.
 
 ### 3D Contribution Graph
 
-![3D Contribution Graph](https://raw.githubusercontent.com/JackSpirit/JackSpirit/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
-![3D Contribution Graph](https://raw.githubusercontent.com/JackSpirit/JackSpirit/main/profile-3d-contrib/profile-day-rainbow.svg#gh-light-mode-only)
+![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
 
 </div>
 
